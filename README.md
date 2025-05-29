@@ -1,1 +1,1 @@
-# CIS17B-S25-33477-Assignment5
+This project uses  C++ templates to create a warehouse system. Handling different types of items, label them, pack them into boxes, and simulate shipping.
